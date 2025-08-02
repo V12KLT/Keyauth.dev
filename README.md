@@ -4,7 +4,7 @@
 
 **KeyAuth.dev** is a modern software licensing and authentication platform that helps developers secure their applications using license keys, HWID locks, user tracking, and API integrations.
 
-Originally known as [KeyAuth.shop](https://keyauth.shop), the service has transitioned to the `keyauth.dev` domain and continues to offer affordable, fast, and reliable license management solutions.
+Originally known as [KeyAuth.shop](https://keyauth.dev), the service has transitioned to the `keyauth.dev` domain and continues to offer affordable, fast, and reliable license management solutions.
 
 ---
 
@@ -23,8 +23,8 @@ Originally known as [KeyAuth.shop](https://keyauth.shop), the service has transi
 
 ## Domain Transition
 
-- The original domain was `https://keyauth.shop`  
-- The official, current domain is `https://keyauth.dev`  
+- The original domain was `https://keyauth.dev`  
+- The official, current domain is `https://keyauth.shop`  
 - `keyauth.shop` still redirects to `keyauth.dev`, but new users should use the `.dev` domain going forward
 
 ---
