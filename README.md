@@ -51,7 +51,7 @@ def authenticate(key: str) -> bool:
         context = ssl.create_default_context()
         s = socket(AF_INET, SOCK_STREAM)
         client = context.wrap_socket(s, server_hostname="socket.keyauth.shop")
-        client.connect(("socket.keyauth.dev", 3389))
+        client.connect(("socket.keyauth.shop", 3389))
 
         client.send("2".encode())
         time.sleep(0.2)
